@@ -1,0 +1,18 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gaj:home|Door43 (gaj)]]
+
+**Resources**
+
+  * [[gaj:obs|Open Bible Stories (gaj)]]
+
+
+**Recent Changes**
+{{changes>ns = gaj}}
+
+**Latest Status**
+{{page>en:uwadmin:gaj:obs:status}}
+
