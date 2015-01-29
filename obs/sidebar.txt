@@ -1,11 +1,33 @@
 
 ----
 ~~NOCACHE~~
-**[[gaj:obs|Open Bible Stories]]**
+**Door43**
 
-{{page>gaj:obs:stories}}
+  * [[gaj:home|Door43 (gaj)]]
 
+**Resources**
+
+  * [[gaj:obs|Open Bible Stories (gaj)]]
+
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gaj|d43-gaj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gaj/archive/master.zip|d43-gaj.zip]]
+
+**Recent Changes**
+{{changes>ns = gaj}}
 
 **Latest Status**
 {{page>en:uwadmin:gaj:obs:status}}
 
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gaj|Ethnologue data]]
+
+**Resources**
+
+  * [[gaj:obs|Open Bible Stories (gaj)]]
+
+**Latest OBS Status**
+{{page>en:uwadmin:gaj:obs:status}}
